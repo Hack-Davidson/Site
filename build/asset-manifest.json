@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.80250c3c.css",
+    "main.js": "/static/js/main.16969fc6.js",
+    "static/media/Sky.jpg": "/static/media/Sky.91d78f95ab3395d39187.jpg",
+    "static/media/Wendy.jpg": "/static/media/Wendy.6bb71f12bd03714f486d.jpg",
+    "static/media/Dmytro.jpg": "/static/media/Dmytro.ebd12334863b716fbf11.jpg",
+    "static/media/alp.jpg": "/static/media/alp.0ec3cfb40f4fd8fa5eec.jpg",
+    "static/media/Niya.jpg": "/static/media/Niya.839eee20c83ecb1498fc.jpg",
+    "static/media/(no BG) Hack@Davidson_LOGO_Robotic.png": "/static/media/(no BG) Hack@Davidson_LOGO_Robotic.828367842b64cf3b8c6e.png",
+    "static/media/Hack@Davidson_logo_plain.png": "/static/media/Hack@Davidson_logo_plain.cbf3690e9317f7e953ff.png",
+    "static/media/Kate.jpg": "/static/media/Kate.cd1b1ef32093edda0262.jpg",
+    "static/media/Alice.jpg": "/static/media/Alice.53c4341cb474e319ec85.jpg",
+    "static/media/Luke.jpg": "/static/media/Luke.9ca917fd7f15f83ce113.jpg",
+    "static/media/forest-systems.png": "/static/media/forest-systems.2fed9f9f1dfe2e25eb9f.png",
+    "static/media/stand-out-stickers-logo.svg": "/static/media/stand-out-stickers-logo.2e16b4183c574007290e7d40a9c57a45.svg",
+    "static/media/mlhlogo.png": "/static/media/mlhlogo.4c24bd1e10f6dd24ef18.png",
+    "static/media/precisely.png": "/static/media/precisely.bcb7ddc3bf511910619a.png",
+    "static/media/summit.png": "/static/media/summit.1769cb99f44e471b90a9.png",
+    "static/media/hurthub.jpg": "/static/media/hurthub.5744046cf8813f47f4cd.jpg",
+    "static/media/davidson.jpg": "/static/media/davidson.3d8380e7f8525a3e6c5b.jpg",
+    "static/media/sunny.jpg": "/static/media/sunny.946eedfc0c81c3977356.jpg",
+    "static/media/lorraine.jpg": "/static/media/lorraine.94c320c413eefb9c0373.jpg",
+    "static/media/icons8-discord.svg": "/static/media/icons8-discord.4ccbeee98a9d230d68a30e3077d4e651.svg",
+    "index.html": "/index.html",
+    "static/media/icons8-mail.svg": "/static/media/icons8-mail.650ff70b29a0d7a164b707e43c20be47.svg",
+    "static/media/icons8-instagram.svg": "/static/media/icons8-instagram.89b88306863c7e01b4d4730dde9b7b9c.svg",
+    "static/media/ham-c.svg": "/static/media/ham-c.8ab7632d2e8f5e05abfb112d11ada71d.svg",
+    "static/media/icons8-dev-post.svg": "/static/media/icons8-dev-post.15a5555a98bb933f34f4e57e9ff48e69.svg",
+    "static/media/icons8-linkedin-2.svg": "/static/media/icons8-linkedin-2.524f8b6e9272d9e92e763dc434da1a16.svg",
+    "static/media/ham.svg": "/static/media/ham.a63ab4de035aef5e3f6e82283f1bae0a.svg",
+    "main.80250c3c.css.map": "/static/css/main.80250c3c.css.map",
+    "main.16969fc6.js.map": "/static/js/main.16969fc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80250c3c.css",
+    "static/js/main.16969fc6.js"
+  ]
+}
